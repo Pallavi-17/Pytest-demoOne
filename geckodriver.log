@@ -1,0 +1,86 @@
+1597202591240	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PALLAV~1\\AppData\\Local\\Temp\\rust_mozprofileTT9mc1"
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+1597202595530	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 7976, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18496, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 18496,Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+1597202606430	Marionette	INFO	Listening on port 52877
+1597202607291	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597202607571	Marionette	DEBUG	Register listener.js for window 4294967297
+1597202608253	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1597202608993	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1597202608993	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+1597202612084	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://duckduckgo.com/"
+1597202613252	Marionette	DEBUG	Received DOM event "pageshow" for "https://duckduckgo.com/"
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 19464, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597241768910	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PALLAV~1\\AppData\\Local\\Temp\\rust_mozprofile7NMei1"
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+1597241772693	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+[Child 21060, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChildUnable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+1597241787137	Marionette	INFO	Listening on port 62158
+1597241787630	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597241787743	Marionette	DEBUG	Register listener.js for window 4294967297
+1597241788184	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1597241788635	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1597241788635	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+1597241789607	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://duckduckgo.com/"
+1597241790216	Marionette	DEBUG	Received DOM event "pageshow" for "https://duckduckgo.com/"
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+[Child 18520, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child *** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+[GPU 5324, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
+1597243011060	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\PALLAV~1\\AppData\\Local\\Temp\\rust_mozprofilelAZAcw"
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+1597243012717	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+[Parent 9260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 21872, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[ChildUnable to read VR Path Registry from C:\Users\pallavi14545\AppData\Local\openvr\openvrpaths.vrpath
+1597243017091	Marionette	INFO	Listening on port 62668
+1597243017161	Marionette	WARN	TLS certificate errors will be ignored for this session
+1597243017295	Marionette	DEBUG	Register listener.js for window 4294967297
+1597243017468	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1597243017782	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1597243017782	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+1597243018318	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "https://duckduckgo.com/"
+1597243018611	Marionette	DEBUG	Received DOM event "pageshow" for "https://duckduckgo.com/"
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+JavaScript warning: https://duckduckgo.com/d2831.js, line 1: unreachable code after return statement
+[Parent 9260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9920, Chrome_ChildThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 9[Parent 9260, Gecko_IOThread] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+
